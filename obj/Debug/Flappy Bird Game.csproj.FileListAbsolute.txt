@@ -1,0 +1,10 @@
+D:\Winform Project\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe.config
+D:\Winform Project\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe
+D:\Winform Project\Flappy Bird Game\bin\Debug\Flappy Bird Game.pdb
+D:\Winform Project\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.AssemblyReference.cache
+D:\Winform Project\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.FlappyBirdForm.resources
+D:\Winform Project\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Properties.Resources.resources
+D:\Winform Project\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.GenerateResource.cache
+D:\Winform Project\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.CoreCompileInputs.cache
+D:\Winform Project\Flappy Bird Game\obj\Debug\Flappy Bird Game.exe
+D:\Winform Project\Flappy Bird Game\obj\Debug\Flappy Bird Game.pdb
